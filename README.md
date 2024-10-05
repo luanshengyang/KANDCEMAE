@@ -1,2 +1,2 @@
-# DCEMAE
-The code for a decoupled-coupled encoder-based masked autoencoder for automatic modulation classification
+# KAN-DCEMAE
+The code for a KAN and Dcoupled Coupled Encoder Based Masked Autoencoder for Automatic Modulation Classification, submitted to IEEE TVT
